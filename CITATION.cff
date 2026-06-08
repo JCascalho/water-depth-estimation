@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Water Depth Estimation"
+version: "1.0.0"
+date-released: "2026-06-08"
+authors:
+  - family-names: "Cascalho"
+    given-names: "Joao"
+license: "MIT"
+repository-code: "https://github.com/JCascalho/water-depth-estimation"
+abstract: "Python routine for estimating corrected water-column height above the seabed from pressure-transducer records using user-defined submerged intervals and air-reference correction."
